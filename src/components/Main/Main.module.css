@@ -1,0 +1,37 @@
+.main {
+    width: 290px;
+    text-align: center;
+}
+
+.globalCursor {
+    cursor: pointer;
+}
+
+.wrapper {
+    padding: 24px;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.viewDashboardButton {
+    width: 242px;
+    height: 40px;
+    background: #000000;
+    border-radius: 8px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 150%;
+    text-align: center;
+    color: #FFFFFF;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin-top: 28px;
+}

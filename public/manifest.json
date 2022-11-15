@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "Snap Extension",
+  "version": "0.1",
+  "description": "Boilerplate manifest Snap Extension using Google's Manifest v3",
+  "permissions": [],
+  "author": "Arpine Aleksanyan",
+  "short_name": "Snap Extension",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Snap Extension",
+    "default_icon": {
+      "16": "/images/subtract.png",
+      "32": "/images/subtract.png",
+      "48": "/images/subtract.png",
+      "128": "/images/subtract.png"
+    }
+  },
+  "icons": {
+    "16": "/images/subtract.png",
+    "32": "/images/subtract.png",
+    "48": "/images/subtract.png",
+    "128": "/images/subtract.png"
+  }
+}
